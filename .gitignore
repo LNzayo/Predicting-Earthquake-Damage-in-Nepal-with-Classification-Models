@@ -1,0 +1,75 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# SQLite databases (optional)
+*.sqlite
+*.db
+
+# Large datasets (optional)
+data/
+*.csv
+
+# Model files
+*.pkl
+*.joblib
+*.pickle
+
+# Matplotlib cache
+.matplotlib/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Jupyter runtime
+.jupyter/
+
+# Ignore OS-generated files
+ehthumbs.db
