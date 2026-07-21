@@ -1,0 +1,17 @@
+Predicting-Earthquake-Damage/
+│
+├── notebooks/
+│   ├── 01_data_loading.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda.ipynb
+│   ├── 04_modeling.ipynb
+│
+├── data/
+│
+├── images/
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── LICENSE
