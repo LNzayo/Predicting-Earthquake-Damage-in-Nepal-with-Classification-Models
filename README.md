@@ -1,5 +1,7 @@
 # Predicting Earthquake Damage in Nepal with Classification Models
 
+This repository demonstrates an end-to-end machine learning workflow for predicting severe earthquake damage in Nepal using structural building characteristics. The project covers data extraction with SQL, feature engineering, exploratory data analysis, classification modeling, model evaluation, and interpretation using Python, DuckDB, SQLite, and Scikit-learn.
+
 ## Overview
 
 This project was completed as part of the **WorldQuant University Applied Data Science Lab**.
