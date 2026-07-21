@@ -1,0 +1,16 @@
+## Dataset
+
+The dataset contains building-level information collected after the 2015 Nepal Earthquake.
+
+Examples of features include:
+
+- Building age
+- Foundation type
+- Roof type
+- Ground floor type
+- Other floor type
+- Position
+- Plan configuration
+- Land surface condition
+- Household information
+- Building superstructure
