@@ -139,6 +139,40 @@ Through this project I learned how to:
 
 ---
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/LNzayo/Predicting-Earthquake-Damage-in-Nepal.git
+cd Predicting-Earthquake-Damage-in-Nepal
+```
+
+Create a virtual environment:
+
+```bash
+python -m venv venv
+```
+
+Activate the environment:
+
+**Windows**
+```bash
+venv\Scripts\activate
+```
+
+**macOS/Linux**
+```bash
+source venv/bin/activate
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## Acknowledgements
 
 This project was completed as part of the **WorldQuant University Applied Data Science Lab**.
